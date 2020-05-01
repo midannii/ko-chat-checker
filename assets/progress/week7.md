@@ -162,6 +162,7 @@
   - [edit distance](https://lovit.github.io/nlp/2018/08/28/levenshtein_hangle/)
   - [FastText](https://inspiringpeople.github.io/data%20analysis/word_embedding/)
     - 우선 챗봇 데이터로 학습시켜서 유사한 단어 구해볼 수 있을듯
+    - [pre-trained model](https://inahjeon.github.io/fasttext/)
 - 자모분리 (모델 안에서 구함)
 - 처음에는 음절 나누지 않고 유사도 구해보기
 4. 모델 서칭
